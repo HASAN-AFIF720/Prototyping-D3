@@ -133,7 +133,7 @@ All sketches live in [`Codes/`](Codes):
 | Md Afif Hasan | [@HASAN-AFIF720](https://github.com/HASAN-AFIF720) |
 | Jubayer Ahmed | [@MainReturn0](https://github.com/MainReturn0) |
 | Rei Halilaj | [@ReiHalilaj](https://github.com/ReiHalilaj) |
-| Ambrose | — |
+| Ambrose Alakweojimba | — |
 
 *Systems Engineering / Prototyping project — Hochschule Hamm-Lippstadt*
 
