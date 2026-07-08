@@ -7,7 +7,7 @@
 
 An **untethered, two-wheel-drive robot car** that operates as a hybrid **line follower** and **obstacle avoider**. The vehicle follows a strict safety-first priority: obstacle detection (safety) always overrides line tracking (navigation).
 
-![Assembled vehicle](vehicle%20assembly%20photo.png)
+![Assembled vehicle](GroupD3_Vehicle_Assembly.jpg)
 
 ---
 
