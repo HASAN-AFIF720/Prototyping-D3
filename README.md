@@ -7,7 +7,7 @@
 
 An **untethered, two-wheel-drive robot car** that operates as a hybrid **line follower** and **obstacle avoider**. The vehicle follows a strict safety-first priority: obstacle detection (safety) always overrides line tracking (navigation).
 
-![Assembled vehicle](GroupD3_Vehicle_Assembly.jpg)
+![Assembled vehicle](GroupD3_Vehicle_Assembly.JPG)
 
 ---
 
@@ -34,8 +34,8 @@ Built for the Systems Engineering / Prototyping module at **Hochschule Hamm-Lipp
 | [`Design/`](Design) | Mechanical CAD parts (STEP) with its own README |
 | [`Diagrams/`](Diagrams) | **Current** SysML diagram set (7 PNGs) with its own README |
 | `zz_diagrams_archive/` | Superseded diagrams — kept for history only, ignore (current set is in `Diagrams/`) |
-| `CircuitDiagram.pdf` | Full wiring / circuit schematic |
-| `vehicle assembly photo.png` | Photo of the assembled prototype |
+| `GroupD3_Wiring_Schematic.pdf` | Full wiring / circuit schematic |
+| `GroupD3_Vehicle_Assembly.JPG` | Photo of the assembled prototype |
 
 ---
 
@@ -96,7 +96,7 @@ All sketches live in [`Codes/`](Codes):
 1. Open `Codes/GroupD3_AutonomousVehicle_Final.ino` (the full build).
 2. Select **Tools → Board → Arduino UNO**.
 3. Select the correct **Port** under **Tools → Port**.
-4. Wire the hardware per the Pin Map above (or `CircuitDiagram.pdf`).
+4. Wire the hardware per the Pin Map above (or `GroupD3_Wiring_Schematic.pdf`).
 5. Power the L298N from the battery pack; **do not** back-feed motor voltage through the Arduino's USB.
 6. Click **Upload**.
 
@@ -115,7 +115,7 @@ All sketches live in [`Codes/`](Codes):
 | Firmware (Arduino) | [`Codes/`](Codes) |
 | SysML diagram set (7) | [`Diagrams/`](Diagrams) |
 | Mechanical CAD (STEP) | [`Design/`](Design) |
-| Circuit schematic | `CircuitDiagram.pdf` |
+| Circuit schematic | `GroupD3_Wiring_Schematic.pdf` |
 
 ---
 
